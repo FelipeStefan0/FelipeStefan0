@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey there 👋, what's up? I'm Felipe Stefano!
 
-<!--
-**FelipeMarqueStefano/FelipeMarqueStefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Front-end development.
+- 📫 How to reach me: For email felipemarquesdestefano@gmail.com or my LinkedIn https://www.linkedin.com/in/felipe-stefano/.
+- ⚡ Fun fact: I can play the guitar and I try to learn the cavaquinho.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMarqueStefano&show_icons=true&theme=tokyonight&count_private=true&custom_title=Felipe Stefano" width="450px">
+</div>
+
+<hr>
+
+### Project InfoDiabetes
+
+<div>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeMarqueStefano&repo=InfoDiabetes"></a>
+</div>
