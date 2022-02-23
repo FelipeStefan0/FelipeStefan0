@@ -51,3 +51,7 @@
 ##
 
 > "Reality exists because our minds exist. Without the mind, there would be no universe". The Things You Can See Only When You Slow Down, 2017.
+
+##
+
+![Snake animation](https://github.com/FelipeMarqueStefano/FelipeMarqueStefano/blob/output/github-contribution-grid-snake.svg)
