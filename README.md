@@ -44,10 +44,10 @@
 ### Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMarqueStefano&show_icons=true&theme=tokyonight&count_private=true&custom_title=Felipe Stefano" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMarqueStefano&layout=compact&theme=tokyonight" height="200px" align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMarqueStefano&show_icons=true&theme=tokyonight&count_private=true&custom_title=Felipe Stefano" height="150px"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMarqueStefano&layout=compact&theme=tokyonight" height="150px">
 </div>
 
 ##
 
-> "Reality exists because our minds exist. Without the mind, there would be no universe."
+> "Reality exists because our minds exist. Without the mind, there would be no universe". The Things You Can See Only When You Slow Down, 2017.
