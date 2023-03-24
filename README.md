@@ -1,9 +1,10 @@
 ## Hey there 👋, what's up? I'm Felipe Stefano!
 
-- 🌱 I’m currently learning Front-end development.
+- 🌱 I’m currently learning Front-end development and Back-end development.
 - 📫 How to reach me: For email felipemarquesdestefano@gmail.com or my LinkedIn https://www.linkedin.com/in/felipe-stefano/.
 - ⚡ Fun fact: I can play the guitar and I try to learn the cavaquinho.
-- 🐱‍🏍 I like &nbsp; <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="20px"> &nbsp; and &nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="20px"> &nbsp; but I don't know much about it.
+- 👻 Today, I work at GCTI, Grupo de Ciência e Tecnologia da informação e inovação, in Parnamirim, RN.
+- 🐱‍🐉 I working with _Angular_ (at front-end) and _Spring Boot_ (at back-end) 
 
 #### My contacts
 
@@ -37,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Felipe-Ionic" width="40px" align="center" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Felipe-TS" width="40px" align="center" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Felipe-Angular" width="40px" align="center" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Felipe-Spring" width="40px" align="center"> &nbsp;&nbsp;
 </div>
 
 ##
