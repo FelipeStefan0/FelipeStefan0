@@ -1,10 +1,10 @@
 ## Hey there 👋, what's up? I'm Felipe Stefano!
 
-- 🌱 I’m currently learning Front-end development and Back-end development.
+- 🌱 I’m currently learning Frontend development and Backend development.
 - 📫 How to reach me: For email felipemarquesdestefano@gmail.com or my LinkedIn https://www.linkedin.com/in/felipe-stefano/.
 - ⚡ Fun fact: I can play the guitar and I try to learn the cavaquinho.
 - 👻 Today, I work at GCTI, Grupo de Ciência e Tecnologia da informação e inovação, in Parnamirim, RN.
-- 🐱‍🐉 I working with _Angular_ (at front-end) and _Spring Boot_ (at back-end) 
+- 🐱‍🐉 I working with _Angular_ (at frontend) and _SpringBoot_ (at backend) 
 
 #### My contacts
 
@@ -20,7 +20,7 @@
 ### Project
 
 <div>
-  <a href="https://github.com/FelipeMarqueStefano/InfoDiabetes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeMarqueStefano&repo=InfoDiabetes&theme=tokyonight"></a>
+  <a href="https://github.com/FelipeStefan0/InfoDiabetes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeMarqueStefano&repo=InfoDiabetes&theme=tokyonight"></a>
 </div>
 <div>
   <a href="https://play.google.com/store/apps/details?id=br.com.diabetesManagerApp"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
@@ -41,12 +41,12 @@
 ### Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMarqueStefano&show_icons=true&theme=tokyonight&count_private=true&custom_title=Felipe Stefano" height="150px"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMarqueStefano&layout=compact&theme=tokyonight" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeStefan0&show_icons=true&theme=tokyonight&count_private=true&custom_title=Felipe Stefano" height="150px"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeStefan0&layout=compact&theme=tokyonight" height="150px">
 </div>
 
 ##
 
 > "Reality exists because our minds exist. Without the mind, there would be no universe". The Things You Can See Only When You Slow Down, 2017.
 
-![Snake animation](https://github.com/FelipeMarqueStefano/FelipeMarqueStefano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FelipeStefan0/FelipeStefan0/blob/output/github-contribution-grid-snake.svg)
