@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, what's up? I'm Felipe Stefano!</h1>
 <h3 align="center">A passionate frontend and backend developer from Brazil</h3>
 
-- 🔭 I’m currently working at [Grupo de Ciência e Tecnologia da informação e inovação (GCTI)](https://gcti.parnamirim.rn.gov.br)
-
 - 🌱 I’m currently learning **Angular and SprinBoot frameworks**
 
 - 📫 How to reach me: **For email felipemarquesdestefano@gmail.com or my LinkedIn https://www.linkedin.com/in/felipe-stefano/**
