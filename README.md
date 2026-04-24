@@ -1,49 +1,64 @@
-<h1 align="center">Hi 👋, what's up? I'm Felipe Stefano!</h1>
-<h3 align="center">A passionate frontend and backend developer from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Felipe Stefano</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0077B5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Brazil-green?style=flat-square" />
+</p>
 
-- 🌱 I’m currently learning **Angular and SprinBoot frameworks**
-
-- 📫 How to reach me: **For email felipemarquesdestefano@gmail.com or my LinkedIn https://www.linkedin.com/in/felipe-stefano/**
-
-- ⚡ Fun fact: **I can play the guitar and I'm learning how to solve rubik's cubes, maybe**
-
-##
-
-<h3>Connect with me:</h3>
-
-<div>
-  <a href="mailto:felipemarquesdestefano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/felipe-stefano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/FelipeMarqueStefano"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+<div align="center">
+  <h3>Full Stack Developer | Angular & Spring Boot</h3>
+  <p>3 years of experience building scalable web applications.</p>
 </div>
 
-##
+<br>
 
-<h3>Stats</h3>
+---
 
-<div>
+### 🚀 Sobre mim
+- 🎓 **Educação:** Bacharelando em Tecnologia da Informação (UFRN/IFRN).
+- 💻 **Foco Atual:** Arquitetura escaláveis com Java/Spring e performance no Frontend com Angular Signals.
+- 🛠️ **Skills Chave:** Angular, SpringBoot, SQL e Metodologias Ágeis.
+
+<br>
+
+---
+
+### 🛠️ Toolbox
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=000000) ![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) |
+| **Database/DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0202?style=flat-square&logo=flyway&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Testing** | ![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-78ab05?style=flat-square) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white) |
+
+<br>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeStefan0&show_icons=true&theme=tokyonight&count_private=true&custom_title=Felipe%20Stefano's%20GitHub%20Stats" height="160px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeStefan0&layout=compact&theme=tokyonight" height="160px">
 </div>
 
-##
+<br>
 
-<h3>Technologies</h3>
+---
 
-<div>
-  <p> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  </p>
-</div>
+### 📫 Let's connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-stefano/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:felipemarquesdestefano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-##
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=FelipeStefan0&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
 
-> "Reality exists because our minds exist. Without the mind, there would be no universe". The Things You Can See Only When You Slow Down, 2017.
+<br>
+
+---
+
+> "Reality exists because our minds exist. Without the mind, there would be no universe". 
+> — *The Things You Can See Only When You Slow Down, 2017.*
