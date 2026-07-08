@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mim
 - 🎓 **Educação:** Bacharelando em Tecnologia da Informação (UFRN/IFRN).
-- 💻 **Foco Atual:** Arquitetura escaláveis com Java/Spring e performance no Frontend com Angular Signals.
+- 💻 **Foco Atual:** Arquitetura escaláveis com Java/Spring e performance no Frontend com Angular.
 - 🛠️ **Skills Chave:** Angular, SpringBoot, SQL e Metodologias Ágeis.
 
 <br>
